@@ -6,8 +6,11 @@ Desenvolvido na versão 3 do Swift
 Estrutura
 
 Crie um diretório com o nome do projeto que desejar
-Entre no diretório recém criado, crie outro chamado Sources 
+
+Entre no diretório recém criado, crie outro chamado Sources
+
 Move todos o codigos fontes para o diretório Sources 
+
 Atenção não altere os nomes, ele inicia o projeto pelo arquivo main.swift
 
 Dentro do diretório com o nome do projeto ( O atual), execute o procedimento abaixo

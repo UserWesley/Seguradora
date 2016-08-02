@@ -1,0 +1,4 @@
+//Classe 
+let seguradora = Seguradora()
+
+
